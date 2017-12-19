@@ -1,3 +1,3 @@
-版本控制工具
-Git is a version control system.
+版本控制工具2
+Git is a distributed version control system.
 Git is free software.
